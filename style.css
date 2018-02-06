@@ -1,0 +1,57 @@
+font-family: 'Roboto Condensed', sans-serif;
+
+#content {
+	.text-align: center;
+}
+
+body { 
+			background-image: url("truebackground.jpg");
+			background-size: cover;
+			}
+
+/* Text Containers */
+
+h2 {
+		margin: auto;
+		text-align: center;
+		height: 30px;
+		width: 600px;
+		background: #f2f2f2;
+		opacity: 0.9;
+		width: 10 px;
+		height: 30 px;
+}
+
+h5 {
+		margin: auto;
+		text-align: center;
+		height: 30px;
+		width: 660px; 
+		background: #f2f2f2;
+		opacity: 0.9;
+		width: 10 px;
+		height: 30 px;
+}
+
+p {
+		margin: auto;
+		text-align: center;
+		height: 300px;
+		width: 600px; 
+		background: #f2f2f2;
+		opacity: 0.9; 
+		width: 10 px;
+		height: 30 px;
+}
+
+hr {
+	width: 600px;
+	color: black;
+}
+
+/* Misc. */
+
+footer {
+		background: #8c7d73;
+}
+
