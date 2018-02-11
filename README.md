@@ -1,4 +1,4 @@
-# aupenncps.github.io
+# aupenn.github.io
 
 Link to site: aupenn.github.io
 
