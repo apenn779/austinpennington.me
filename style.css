@@ -9,7 +9,7 @@ body {
 			background-size: cover;
 			}
 
-/* Text Containers */
+/* Text "Containers" for most text */
 
 h2 {
 		margin: auto;
@@ -17,18 +17,16 @@ h2 {
 		height: 30px;
 		width: 600px;
 		background: #f2f2f2;
-		opacity: 0.9;
-		width: 10 px;
-		height: 30 px;
+		opacity: 0.8;
 }
 
 h5 {
 		margin: auto;
 		text-align: center;
 		height: 30px;
-		width: 660px; 
+		width: 600px; 
 		background: #f2f2f2;
-		opacity: 0.9;
+		opacity: 0.8;
 		width: 10 px;
 		height: 30 px;
 }
@@ -36,22 +34,15 @@ h5 {
 p {
 		margin: auto;
 		text-align: center;
-		height: 300px;
 		width: 600px; 
 		background: #f2f2f2;
-		opacity: 0.9; 
+		opacity: 0.8; 
 		width: 10 px;
 		height: 30 px;
 }
 
+/* Line Break */ 
 hr {
 	width: 600px;
 	color: black;
 }
-
-/* Misc. */
-
-footer {
-		background: #8c7d73;
-}
-
